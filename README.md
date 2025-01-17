@@ -1,2 +1,2 @@
 # Beretta
-An advanced owo gambler bot
+An advanced discord selfbot
